@@ -7,14 +7,14 @@ export const data=[
         name:"Golf-All",
         image:GolfAll,
         github:"https://github.com/hdyoung21/Golf-All",
-        
+        live:"https://hdyoung21.github.io/Golf-All/",
     },
     {
         id:2,
         name:"RPG the Game",
         image:RPG,
-        github:"",
-        
+        github:"https://github.com/JosephFAnderson/RPG_the_Game",
+        live:"https://rpgthegame.herokuapp.com",
     },
  
 

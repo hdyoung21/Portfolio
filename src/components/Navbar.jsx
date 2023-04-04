@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
-import { HiOutlineMail } from 'react-icons/hi'
 import { BsPersonBadgeFill } from 'react-icons/bs'
 import lodgelogo from '../assets/lodgelogo.JPG'
 import { Link } from 'react-scroll'

@@ -10,7 +10,7 @@ function Home() {
                 <p className='text-[#ffd700]'>Welcome to the portfolio of</p>
                 <h1 className='text-white font-bold text-4xl sm:text-7xl'>Hunter Young</h1>
                 <h2 className='text-[#807f77] font-bold text-3xl sm:text-7xl'>Full Stack Developer.</h2>
-                <p className='text-[#ffd700] py-4 max-w-[700px]'>Emerging developer with a passion for developing client-focused applications with polished front-ends and robust backends.  Enjoy the out-of-the-box thinking needed for creative problem solving.  Energized by collaborating with customers and colleagues to solve business challenges. Looking for a company that I can invest in as they invest in me to grow and develop my technical and consulting skills.</p>
+                <p className='text-[#ffd700] py-4 max-w-[700px]'>As an emerging developer, I am passionate about developing client-focused applications with polished front-ends and robust back-ends. I thrive on out-of-the-box thinking and creative problem solving, and I enjoy collaborating with customers and colleagues to solve business challenges. I am seeking a company where I can invest myself, grow my technical and consulting skills, and contribute to their success.</p>
                 <div>
                     <button className='text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-black hover:border-[#ffd700]'>
                         View Work
